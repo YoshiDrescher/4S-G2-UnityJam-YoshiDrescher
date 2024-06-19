@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/workdata+++/Scenes/SampleScene.unity
+    path: Assets/workdata+++/Scenes/Main Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/workdata+++/Scenes/Choose your role.unity
+    guid: 49a9dcdb58a2e0b42bad3c9745eb1329
+  - enabled: 1
+    path: Assets/workdata+++/Scenes/Game Master.unity
+    guid: 0101621b949a92f47841bf988c2ee25a
+  - enabled: 1
+    path: Assets/workdata+++/Scenes/Adventurer.unity
+    guid: 9dbaab41aba7d114096344b3045e59d5
+  - enabled: 1
+    path: Assets/workdata+++/Scenes/Win.unity
+    guid: 126426ccb6cf0cf40aaf1b89eb4c7bc9
+  - enabled: 1
+    path: Assets/workdata+++/Scenes/Credits.unity
+    guid: b62fbb69c575ae54d9375aede5b11a15
   m_configObjects: {}
